@@ -1,0 +1,4 @@
+{
+  "MONGOURI": "mongodb+srv://kushagra:Qwertyuiop@1@cluster0-ieft8.mongodb.net/redux-exp-track?retryWrites=true&w=majority",
+  "JWTSecret": "mysecret"
+}
